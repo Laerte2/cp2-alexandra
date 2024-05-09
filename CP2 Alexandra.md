@@ -35,7 +35,7 @@ Nesta parte do livro, você acompanhará minha jornada à medida que aprendi sob
 
 No entanto, a retrospectiva é 20/20. Depois de percorrer um caminho, é fácil apontar os atalhos e perigos ao longo do caminho; é ainda mais fácil esquecer todos os caminhos errados e suposições erradas. Não existe um método único para abordar a China, e a minha esperança é que, ao ler estas histórias, você possa chegar às suas próprias conclusões (talvez diferentes) que melhor atendam às suas necessidades específicas.
 
-1. <a name="_toc_250016"></a>fabricado na China
+ <a name="_toc_250016"></a>fabricado na China
 
    Antes da minha primeira visita à China, eu estava convencido de que Akihabara, em Tóquio, era o local certo para encontrar os mais recentes produtos eletrônicos, bugigangas e componentes. Isso mudou em janeiro de 2007, quando vi pela primeira vez o SEG Electronics Market em Shenzhen.
 
@@ -43,7 +43,8 @@ No entanto, a retrospectiva é 20/20. Depois de percorrer um caminho, é fácil 
 
    Na época, como engenheiro-chefe de hardware da Chumby, eu estava na China com o então CEO Steve Tomlin para descobrir como fazer chumbys (um dispositivo de entrega de conteúdo de código aberto habilitado para Wi- Fi) de maneira barata e dentro do prazo. Com preços como os da SEG, estávamos definitivamente no país certo para tornar pelo menos a primeira parte dessa missão um sucesso.
 
-   ####### **O MERCADO DE PULGAS DO COMPONENTE ELETRÔNICO FINAL**
+   #### O MERCADO DE PULGAS DO COMPONENTE ELETRÔNICO FINAL
+
    Quando entrei pela primeira vez no prédio da SEG, fui assaltado por um turbilhão de componentes eletrônicos: fitas e bobinas de resistores e capacitores, CIs de todos os tipos, indutores, relés, pontos de teste de pogo pin, voltímetros e bandejas de chips de memória. Como um novato na produção em volume, fiquei impressionado com tudo que vi na SEG.
 
    Todas essas peças estavam amontoadas em pequenas cabines de um metro e oitenta por um metro, cada uma com um lojista mexendo em um laptop. Alguns lojistas brincavam*Ir*, e algumas partes contadas. Alguns estandes eram verdadeiras lojas familiares, com mães cuidando de bebês e crianças brincando nos corredores.
@@ -70,7 +71,7 @@ No entanto, a retrospectiva é 20/20. Depois de percorrer um caminho, é fácil 
 
    É claro que muitas das peças que me maravilharam em 2007 agora são antiguidades. Por exemplo, chips flash de 4 Gb são lixo e discos flash de 1 GB são notícia velha. Na época, porém, essas coisas eram um grande negócio, e o SEG ainda é o melhor lugar para obter a tecnologia mais recente em massa.
 
-   ####### <a name="_toc_250015"></a>**A PRÓXIMA REVOLUÇÃO TECNOLÓGICA**
+   #### <a name="_toc_250015"></a>**A PRÓXIMA REVOLUÇÃO TECNOLÓGICA**
    A três quarteirões da SEG ficava a Livraria de Shenzhen.†A primeira e mais visível estante era uma seção de livros estrangeiros, repleta de clássicos como o do professor da Universidade de Stanford, Thomas Lee.*O Projeto de Radiofrequência CMOS Integrada Circuitos*e vários títulos do professor da UCLA Behzad Razavi. Comprei o livro de Lee e custou 68 kuai, ou US$ 8,50. Vaca sagrada! O livro de Jin Au Kong sobre as equações de Maxwell? US$ 5. Jin Au Kong*ensinado*me as equações de Maxwell no MIT.
 
    Saí para uma farra, arrumando minha mochila com seis ou sete títulos, provavelmente cerca de US$ 700 em livros, se eu os tivesse comprado nos Estados Unidos. No caixa, comprei-os por menos de US$ 35, completos com os CDs suplementares, economizando cerca de US$ 665. Isso equivale a comprar uma passagem em classe econômica para Hong Kong!
@@ -82,7 +83,7 @@ No entanto, a retrospectiva é 20/20. Depois de percorrer um caminho, é fácil 
    Nesta cidade de 12 milhões de habitantes, a maioria está envolvida com tecnologia ou manufatura, muitos estão aprendendo inglês e todos estão dispostos a trabalhar duro.
 
    Tem que haver Jobs e Wozniak em algum lugar, construindo silenciosamente a próxima revolução. Mas também faço parte de Shenzhen e ainda tremo de terror e entusiasmo com a ideia de fazer parte dessa revolução. Esta é a minha história, começando com aquela viagem reveladora a Shenzhen para Chumby.
-   ######## <a name="_toc_250014"></a>**Visitando fábricas com Chumby**
+   #### <a name="_toc_250014"></a>**Visitando fábricas com Chumby**
    Em setembro de 2006, Chumby era apenas uma equipe de cerca de meia dúzia de pessoas, e tínhamos acabado de distribuir cerca de 200 protótipos iniciais de dispositivos chumby no FOO Camp, uma conferência organizada por Tim O'Reilly. Os dispositivos foram bem recebidos pelos participantes do FOO Camp, então recebi autorização para construir a cadeia de abastecimento asiática.
 
    Steve e eu fomos à China para visitar possíveis fábricas em novembro, mas antes de partirmos, um fornecedor de confiança nos Estados Unidos ofereceu o melhor preço pelo trabalho como base para negociações com os fabricantes chineses. Depois, ligamos para vários amigos com experiência na China e marcamos cerca de seis visitas à fábrica. Atingimos uma grande variedade de locais, desde fábricas especializadas com apenas 500 pessoas até megafábricas com mais de 40.000 pessoas.
@@ -94,7 +95,7 @@ No entanto, a retrospectiva é 20/20. Depois de percorrer um caminho, é fácil 
    Depois de analisar diversas opções de fabricação, Steve e eu decidimos trabalhar com uma empresa chamada PCH China Solutions. A própria PCH possui apenas algumas instalações, mas possui uma rede abrangente de fornecedores confiáveis e validados, principalmente na China, mas também na Europa e nos Estados Unidos. Não é de surpreender que as fábricas subcontratadas pela PCH sejam algumas das melhores instalações que visitamos na China. Na verdade, a PCH está sediada na Irlanda – portanto, a maioria dos engenheiros de sua equipe são irlandeses – portanto, também não houve barreira linguística para nós. (Os engenheiros da PCH também são trabalhadores, engenhosos e bem treinados – e, como bônus, eles sempre parecem saber o melhor lugar para encontrar uma cerveja, não importa onde estejam. Eu não tinha ideia de que a China tinha tantas torneiras de Guinness!)
 
    Há muito o que aprender quando você visita uma fábrica, quanto mais meia dúzia, e é fácil ficar sobrecarregado e perdido nos caprichos da fabricação de eletrônicos. Mas houve alguns detalhes importantes que achei mais fascinantes durante minhas visitas à fábrica do Chumby e no trabalho com a PCH para dar vida ao chumby.
-   ###### <a name="_toc_250013"></a>**escala em shenzhen**
+   #### <a name="_toc_250013"></a>**escala em shenzhen**
    Uma coisa impressionante sobre trabalhar na China é a escala do lugar. Não estive em uma fábrica de automóveis em Michigan ou na fábrica da Boeing em Seattle, mas tenho a sensação de que Shenzhen dá a ambos uma corrida pelo seu dinheiro em termos de escala. Em 2007, Shenzhen tinha 9 milhões de habitantes.
 
    Para se ter uma ideia da escala de uma fábrica em Shenzhen, a fábrica da New Balance empregava 40 mil pessoas e tinha capacidade para produzir mais de um milhão de sapatos por mês. Estimo que do tecido bruto ao sapato acabado o processo demorou cerca de 50 minutos e cada pacote de plástico e tecido perfeitamente costurado o couro foi costurado à mão em uma máquina de costura industrial. As estações são projetadas de forma que cada etapa do processo leve cerca de 30 segundos para o trabalhador.
@@ -102,7 +103,7 @@ No entanto, a retrospectiva é 20/20. Depois de percorrer um caminho, é fácil 
    É claro que a fábrica da New Balance é ofuscada pela Foxconn, a fábrica onde os iPods e iPhones são fabricados.
 
    A Foxconn é uma instalação enorme, aparentemente com mais de 250 mil funcionários, e tem seu próprio status especial de livre comércio. Toda a instalação está isolada e ouvi dizer que você precisa mostrar seu passaporte e passar pela alfândega para entrar nas instalações. Isso fica um pouco aquém dos cães robóticos movidos a energia nuclear das franquias de corporações nacionais de Neal Stephenson.*Queda de neve*.
-   ###### <a name="_toc_250012"></a>**alimentando a fábrica**
+   #### <a name="_toc_250012"></a>**alimentando a fábrica**
    Há um velho ditado chinês:*min yi shi wei tian*. Uma tradução literal seria “as pessoas consideram a comida divina” ou “para as pessoas, a comida está próxima do céu”. Você também pode encarar isso como um conselho governamental: “o mandato do governo [sinônimo com o céu] é tão robusto quanto a comida nos pratos das pessoas.” Ou você pode interpretar isso como uma desculpa para procrastinar: “vamos comer primeiro [já que é tão importante quanto o céu]”.
 
    Seja como for, acho que o ditado ainda vale na China. Uma métrica importante para avaliar o quão bem uma fábrica trata os seus funcionários é a qualidade da comida, já que é comum que os trabalhadores da fábrica sejam alojados, alimentados e cuidados no local.
@@ -177,8 +178,8 @@ No entanto, a retrospectiva é 20/20. Depois de percorrer um caminho, é fácil 
    As capas grossas acrescentavam outro nível de complexidade, porque envolviam costurar um pedaço de couro em uma moldura de plástico macio. Nessa situação, conforme você costura o couro, a moldura se distorce levemente e estica o couro, criando um viés de costura que depende da direção e da velocidade da costura. Essa força é capturada nas costuras e contribui para o formato final da caixa. Eu desafio alguém a criar uma ferramenta de simulação computacional que possa capturar com precisão essas forças e prever como um produto como esse ficará quando costurado.
 
    No entanto, de alguma forma, a proficiência do Mestre Chao na arte da criação de padrões permitiu-lhe criar e ajustar muito rapidamente, e em muito poucas iterações, um padrão que compensasse todas essas forças. Seus resultados, todos obtidos com papelão, tesoura e lápis, foram surpreendentemente inteligentes e perspicazes. Seja grato por suas habilidades no velho mundo; eles provavelmente desempenharam um papel na produção de algo que você usou ou do qual se beneficiou.
-   ########
-   ######## **automação para montagem de eletrônicos**
+   
+   #### **automação para montagem de eletrônicos**
    Antes de trabalhar na Chumby, eu pensava que quase tudo era feito por uma máquina. É claro que as visitas às fábricas têxteis corrigiram minha impressão muito rapidamente; no entanto, coisas de alta tecnologia, como a montagem de eletrônicos, ainda tendem a ser altamente automatizadas, mesmo na China. As únicas exceções que vi durante minhas visitas às fábricas foram, ironicamente, os produtos de menor custo, como brinquedos. Essas oficinas ainda eram dominadas por filas de trabalhadores, enchendo e soldando placas de circuito manualmente.
 
    Uma dicotomia interessante relacionada à automação é a distribuição bimodal de produtos que utilizam*chip-on-board (CoB)* tecnologia. A montagem CoB liga diretamente uma matriz de silício a um PCB. Os conjuntos CoB acabados têm a aparência distinta de “globa de epóxi”, em oposição à aparência de embalagem plástica acabada.
@@ -198,7 +199,7 @@ No entanto, a retrospectiva é 20/20. Depois de percorrer um caminho, é fácil 
    A fábrica que usamos para a montagem de PCB do Chumby também produzia placas-mãe de PC de marca e parecia não ter problemas em produzir mais de 10.000 dessas montagens complexas por dia. Mas mesmo que processos como a colocação de componentes possam ser automatizados, há algumas coisas que uma máquina simplesmente não consegue fazer.
    #### <a name="_toc_250008"></a>**Precisão, moldagem por injeção e paciência**
    No curso de engenharia do chumby, também tive que aprender sobre moldagem por injeção, porque a placa de circuito tinha que ficar dentro de algum tipo de caixa. Para um cara de eletrônica com pouca experiência em mecânica, essa não era uma colina pequena para escalar. O conceito parece simples: você faz uma cavidade de aço, empurra plástico derretido nela em alta pressão, deixa esfriar e voilàa peça acabada sai, assim como os moldes Play-Doh da escola primária.
-   ##### Ah, se o processo fosse tão simples.
+   #### Ah, se o processo fosse tão simples.
    Claro, o plástico flui, mas não é particularmente líquido. Ele se move lentamente e esfria à medida que flui. A cor do plástico é impactada pelas mudanças de temperatura e, ao usar um molde mal projetado, é possível até ver linhas de fluxo e linhas de malha no produto final. Há também uma grande variedade de questões sobre como a peça acabada é retirada do molde, como o molde é feito e acabado, onde estão as portas e os corredores para colocar o plástico dentro do molde e assim por diante.
 
    Felizmente, a PCH tinha especialistas na China que sabiam tudo sobre isso, e aprendi principalmente observando.
@@ -220,7 +221,7 @@ No entanto, a retrospectiva é 20/20. Depois de percorrer um caminho, é fácil 
    O molde usado para criar a moldura traseira do chumby era extremamente complexo, pois envolvia um processo chamado *sobremoldagem*. Se acontecer de você possuir um clássico gordinho, olhe para o verso. Há um TPE emborrachado ao redor da moldura ABS rígida. Muitas pessoas presumiram que se tratava de um elástico colado. Na verdade, o TPE é moldado na parte traseira. Isso requer um molde de duas doses.
 
    *O molde final para a moldura traseira do gordinho, dentro de uma injetora.*
-   ##### Na verdade, havia dois moldes e um lado do molde girado para que os sistemas de materiais alternados pudessem ser moldados nos pontos certos do processo.
+   #### Na verdade, havia dois moldes e um lado do molde girado para que os sistemas de materiais alternados pudessem ser moldados nos pontos certos do processo.
    Muito trabalho duro é dedicado às humildes peças de plástico que você vê todos os dias, e tudo isso faz parte da criação de produtos de qualidade. Mas, ao mesmo tempo, há também uma necessidade muito real de satisfazer a expectativa de preços baratos.
    #### <a name="_toc_250007"></a>**O Desafio da Qualidade**
    Claramente, com a expectativa de baixo custo dos produtos fabricados na China surge um grande desafio na gestão da qualidade. Observe a cobertura da mídia sobre tópicos como tinta com chumbo em brinquedos, produtos químicos industriais em alimentos e outros itens fabricados na China, e você poderá ver algumas das más decisões tomadas para manter os preços baixos.
